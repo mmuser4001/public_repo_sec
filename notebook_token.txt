@@ -1,0 +1,2 @@
+# Simulated notebook cell:
+# token = "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.TCzW6LU0XaufFmNede_Awo57YH6liGDN.FAKE_SIGNATURE"

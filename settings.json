@@ -1,0 +1,11 @@
+{
+  "service": {
+    "apiKey": "FAKE_2a10aa11b6678a9ab3753962",
+    "authHeader": "Bearer FAKE_62982f161786de0bbcecf4b1",
+    "enableFeatureX": true
+  },
+  "aws": {
+    "accessKeyId": "AKIAX7PKTR7U2Z582Z19",
+    "secretAccessKey": "24eG+KBmcnwrDTww9wO2vkiAVep9W4MTYAxiGGDs"
+  }
+}

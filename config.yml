@@ -1,0 +1,4 @@
+api:
+  key: "FAKE_7720233fdc660d4826602c10"
+  token: "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9._mPd3wq18HYWDo4XYuLEtMZTpZYvTD7P.FAKE_SIGNATURE"
+  endpoint: "https://api.example.com"
