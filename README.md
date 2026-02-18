@@ -12,3 +12,5 @@ git branch -M main
 git remote add origin https://github.com/<your-username>/test-secrets-github-20251023-072844.git
 git push -u origin main
 ```
+
+update readme
